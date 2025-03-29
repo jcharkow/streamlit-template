@@ -3,6 +3,9 @@ name: Sync Conda Environment
 on:
   push:
 
+permissions:
+  contents: write  # Grant write access to push changes
+
 jobs:
   update-requirements:
     runs-on: ubuntu-latest
