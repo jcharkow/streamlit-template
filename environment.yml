@@ -33,7 +33,7 @@ dependencies:
       - psutil==7.0.0
       - pyarrow==19.0.1
       - pydeck==0.9.1
-      - pyopenms==3.2.0
+      - pyopenms==3.4.0
       - pyopenms-viz==1.0.0
       - pyparsing==3.2.3
       - python-dateutil==2.9.0.post0
